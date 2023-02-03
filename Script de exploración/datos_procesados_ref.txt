@@ -1,0 +1,176 @@
+FO,Khazad Dum,Dwarves,Durin VII,None
+FO,Reunited Kingdom,Men,Eldarion,Andurin
+FO,Reunited Kingdom,Men,Eldarion,Sword
+FO,Rohan,Men,Elfwine,Sword
+YT ,Galadhon,Elves,Galadriel,Elf Magic
+YT ,Galadhon,Elves,Galadriel,Nenya
+SR,Buckland,Hobbit,Brandybuck,None
+SR,Buckland,Hobbit,Gormadoc,None
+SR,Shire,Hobbit,Nina Lightfoot,None
+SR,Shire,Hobbit,Fastolph Bolger,None
+SA,White Mountain,Men Undead,The King of the Dead,Spear
+SA,House of Tulkas ,Ainur,Tulkas,None
+SA,Valinor,Ainur,Ulmo,None
+SA,Arda,Ainur,Varda,Powers of the Valar
+SA,Angmar,Wraith Men,Witch King,Mongul Knife
+SA,Angband,Were Wolves,Carcharoth,None
+SA,Gondor,Men,Cemendur,None
+SA,Gondor,Men,Meneldil,Kings Sword
+SA,Arnor,Men,Valandil,Kings Sword
+SA,Arnor,Men,Elendil,Sword
+SA,Arnor,Men,Elendil,Narsil
+SA,Arnor,Men,Isildur,None
+SA,no menor,Men,Erendis,None
+SA,no menor,Men,Tar-Aldarion,None
+SA,no menor,Men,Tar-Alcarin,Aranruth
+SA,no menor,Men,Tar-Amandil,Aranruth
+SA,no menor,Men,Tar-Ancalimon,Aranruth
+SA,no menor,Men,Tar-Ciryatan,Aranruth
+SA,no menor,Men,Tar-Ardamin,Aranruth
+SA,no menor,Men,Tar-Meneldur,Aranruth
+SA,no menor,Men,Tar-Atanamir,Aranruth
+SA,no menor,Men,Tar-Calmacil,Aranruth
+SA,no menor,Men,Tar-Elendil,Aranruth
+SA,no menor,Men,Tar-Minastir,Aranruth
+SA,no menor,Men,Tar-Palantir,Aranruth
+UK,Woodland,Elves,Legolas,Bow
+UK,Woodland,Elves,Legolas,Long White Knife
+YT,Estolad,Elves,Amras,Bow
+YT,Estolad,Elves,Amras,Sword
+YT,Gondolin,Elves,Turgon,Glamdring
+YT,Galadhon,Elves,Celeborn,None
+YT,Eregion,Elves,Galadriel,Nenya
+YT,Eregion,Elves,Galadriel,Elf-magic
+YT,Eregion,Elves,Celebrimbor,Sword
+YT,Angband,Ainur,Melkor,Spear
+YT,Angband,Ainur,Melkor,Grond Black
+YT,Valinor,Ainur,Nessa,None
+YT,Halls of Nienna,Ainur,Nienna,None
+YT,Doriath,Ainur,Melian,Magic
+YT,Doriath,Elves,Thingo ,Aranruth
+YT,Doriath,Elves,Nimloth,None
+YT,Pastures of Yavanna,Ainur,Yavanna,None
+YT,Himlad,Elves,Curufin,Angrist
+YT,Ossiriand,Elves,Denethor,None
+YT,Nargothrond,Elves,Orodreth,None
+YT,Tirion,Elves,Finarfin,None
+YT,Beleriand,Elves,Fingolfin,None
+YT,Hithlum,Elves,Fingon,None
+TA,White Mountain,Women,Éowyn,Sword
+TA,Unknown,Maia,Gandalf,Glamdring
+TA,Unknown,Maia,Gandalf,Narya
+TA,Unknown,Maia,Gandalf,Wizard staff
+TA,Misty Mountains,Hobbit,Gollum,None
+TA,Woodland,Hobbit,Bilbo,Sting
+TA,Reunited Kingdom,Half Elven,Arwen,Sword
+TA,Reunited Kingdom,Dunadan,Aragorn,Spear
+TA,Reunited Kingdom,Dunadan,Aragorn,Bow
+TA,Reunited Kingdom,Dunadan,Aragorn,Anduril
+TA,Grey Mountain,Dwarves,Thorin,None
+TA,Ered Luin,Dwarves,Oakenshield,Orcrist
+TA,Dale,Men,Bain,None
+TA,Dale,Men,Bard,Black Arrow
+TA,Laketown,Men,Brand,Bow of Bard 
+TA,Laketown,Men,Bard II,Bow of Bard
+TA,Bree,Hobbits,Willie Banks,None
+TA,Arthedain,Men,Amlaith,Sword
+TA,Arthedain,Men,Araphant,Kings Sword
+TA,Arthedain,Men,Araphor,Sword
+TA,Arthedain,Men,Araval,Sword
+TA,Arthedain,Men,Argeleb I,Sword
+TA,Arthedain,Men,Argeleb II,Sword
+TA,Arthedain,Men,Arvedui,Sword
+TA,Arthedain,Men,Arvegil,Sword
+TA,Arthedain,Men,Arveleg II,Sword
+TA,Arthedain,Men,Mallor,Kings Sword
+TA,Arthedain,Men,Malvegil,Kings Sword
+TA,Arthedain,Men,Beleg of Arnor,None
+TA,Arthedain,Men,Celebrindor,Kings Sword
+TA,Arthedain,Men,Celepharn,Kings Sword
+TA,Mount Gram,Orc,Golfimbul,None
+TA,Lake Town,Men,Master of Laketown,None
+TA,Grey Mountains,Men,King of Durins Folk,None
+TA,Shire,Hobbit,Frodo,Sting
+TA,Shire,Hobbit,Frodo,Barrow Blade
+TA,Shire,Hobbit,Meriadoc Brandigamo,Dagger of Westernesse
+TA,Shire,Hobbit,Samsagaz Gamyi,Sting
+TA,Shire,Hobbit,Samsagaz Gamyi,Dagger of Westernesse
+TA,Shire,Hobbit,Hob Hayward,Sticks
+TA,Shire,Hobbit,Tobias Hornblower,None
+TA,Ungol,Black Uruk,Shagrat,Scimitar Knife
+TA,Gondor,Hobbit,Peregrin Tuk,Dagger of Westernesse
+TA,Gondor,Men,Faramir,Sword
+TA,Gondor,Men,Faramir,Nail knife
+TA,Gondor,Men,Theoden,Herugrim
+TA,Gondor,Men,Boromir,Sword
+TA,Gondor,Men,Boromir,Shield
+TA,Gondor,Men,Boromir,Dagger
+TA,Gondor,Men,Aldamir,None
+TA,Gondor,Men,Anardi l,Sword
+TA,Gondor,Men,Atanatar I,Kings Sword
+TA,Gondor,Men,Atanatar II,Kings Sword
+TA,Gondor,Men,Tarondor,Kings Sword
+TA,Gondor,Men,Telumehtar,Kings Sword
+TA,Gondor,Men,Telemnar,Kings Sword
+TA,Gondor,Men,Barahir,Bow
+TA,Gondor,Men,Turambar,None
+TA,Gondor,Men,Valacar,Kings Sword
+TA,Gondor,Men,Calimehtar,Kings Sword
+TA,Gondor,Men,Calmacil,Kings Sword
+TA,Gondor,Men,Castamir the Usurper,Kings Sword
+TA,Gondor,Men,Ciryandil,Kings Sword
+TA,Gondor,Men,Minardil,Kings Sword
+TA,Gondor,Men,Narmacil I,None
+TA,Gondor,Men,Ondoher,Kings Sword
+TA,Gondor,Men,Ostoher,None
+TA,Gondor,Men,King of Gondor,Kings Sword
+TA,Gondor,Men,Hyarmendacil I,Kings Sword
+TA,Gondor,Men,Hyarmendacil II,Kings Sword
+TA,Gondor,Men,Siriondil,Kings Sword
+TA,Lonely Mountain,Dragons,Smaug,None
+TA,Lonely Mountain,Dwarves,Stonehelm,None
+TA,Minas,Men,Faramir,Sword
+TA,Minas,Men,Faramir,Nail Knife
+TA,Rohan,Men,Eomer,Guthwine
+TA,Rohan,Men,Aldor,Kings Sword
+TA,Rohan,Men,Thengel,Kings Sword
+TA,Rohan,Men,Brego,Kings Sword
+TA,Rohan,Men,Folcwine,Kings Sword
+TA,Rohan,Men,Goldwine,None
+TA,Rohan,Men,Gram,Kings Sword
+TA,Rohan,Men,Wulf I,None
+TA,Rohan,Men,Helm Hammerhand,Kings Sword
+TA,Rohan,Men,Elfhild,Sword
+TA,Rohan,Men,Omer,None
+TA,Rohan,Men,Eorl the Young,Kings Sword
+TA,Rohan,Men,Fengel,None
+TA,Rohan,Men,Morwen Steelsheen,Sword
+TA,Arnor,Men,Arantar,Sword
+TA,Arnor,Men,Arveleg I,Sword
+TA,Arnor,Men,Tarondor of Arnor,Kings Sword
+TA,Arnor,Men,Valandur,Kings Sword
+TA,Arnor,Men,King of Arnor,Kings Sword
+TA,Arnor,Men,Elendur of Arnor,Kings Sword
+TA,Arnor,Men,Tarcil,Kings Sword
+FA,Lonely Montain,Dwarves,Gimli,Broad Bladed
+FA,Lonely Montain,Dwarves,Gimli,Axe
+FA,Valinor,Maiar,Saruman,Wizard Staff
+FA,Valinor,Maiar,Saruman,Dagger
+FA,Valinor,Maiar,Saruman,Dark sorcery
+FA,Angband,Maiar,Sauron,Powers of the Maiar
+FA,Angband,Maiar,Sauron,The One Ring
+FA,Angband,Maiar,Sauron,Dark sorcery
+FA,Angband,Maiar,Sauron,Mace
+FA,Angband,Maiar,Sauron,Sword
+FA,Estolad,Men,Baran,None
+FA,Havens of Sirion,Elves,Gil Galad,Vilya ring
+FA,Havens of Sirion,Elves,Gil Galad,Aeglos spear
+FA,Doriath,Half Elven,Dior,Aranruth
+FA,Brethil,Men,Handir,None
+FA,Woodland,Elves,Thranduil,Sword
+FA,Woodland,Elves,Oropher,None
+FA,Rivendell,Half Elven,Elrond,None
+FA,Rivendell,Peredhil,Elrond,None
+FA,no menor,Half Elven,Elros,Aranruth
+FA,no menor,Half Elven,Elros,Dramborleg
+FA,Ungol,Great Spiders,Shelob,None
