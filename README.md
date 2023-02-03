@@ -1,11 +1,4 @@
 # Proyecto 1
 # Técnicas de Simulación en Computadoras - Ciclo 01/2022
 
-# Lord Of The Ring
-
-## Integrantes:
-
-- JUAN HUMBERTO GALLARDO HERNANDEZ 00091813
-- JOSUE HUMBERTO MONTECINOS TORRES 00103013
-- ROBERTO JOSE HENRIQUEZ ALFARO 00050410
-- NELSON MANUEL FLAMENCO NAVARRO 00088113
+Project for Computer Simluation Techniques course. Language is C++.
